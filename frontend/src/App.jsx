@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
 
-const API = "https://support-crm-system.onrender.com/api";
+const API = "https://support-crm-system-1-e8lc.onrender.com/api";
 
 function App() {
   const [tickets, setTickets] = useState([]);
