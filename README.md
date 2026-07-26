@@ -41,26 +41,26 @@ This application allows support teams to manage customer support tickets, search
 
 ```bash
 support-crm/
-│
-├── backend/
-│   ├── app/
-│   │   ├── main.py
-│   │   ├── database.py
-│   │   ├── models.py
-│   │   ├── schemas.py
-│   │   ├── crud.py
-│   │   └── routes.py
-│   │
-│   ├── requirements.txt
-│   └── tickets.db
-│
-├── frontend/
-│   ├── src/
-│   ├── public/
-│   ├── package.json
-│   └── vite.config.js
-│
-└── README.md
+Γöé
+Γö£ΓöÇΓöÇ backend/
+Γöé   Γö£ΓöÇΓöÇ app/
+Γöé   Γöé   Γö£ΓöÇΓöÇ main.py
+Γöé   Γöé   Γö£ΓöÇΓöÇ database.py
+Γöé   Γöé   Γö£ΓöÇΓöÇ models.py
+Γöé   Γöé   Γö£ΓöÇΓöÇ schemas.py
+Γöé   Γöé   Γö£ΓöÇΓöÇ crud.py
+Γöé   Γöé   ΓööΓöÇΓöÇ routes.py
+Γöé   Γöé
+Γöé   Γö£ΓöÇΓöÇ requirements.txt
+Γöé   ΓööΓöÇΓöÇ tickets.db
+Γöé
+Γö£ΓöÇΓöÇ frontend/
+Γöé   Γö£ΓöÇΓöÇ src/
+Γöé   Γö£ΓöÇΓöÇ public/
+Γöé   Γö£ΓöÇΓöÇ package.json
+Γöé   ΓööΓöÇΓöÇ vite.config.js
+Γöé
+ΓööΓöÇΓöÇ README.md
 ```
 
 ---
